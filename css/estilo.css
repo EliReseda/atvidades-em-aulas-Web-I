@@ -1,0 +1,26 @@
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: green;
+}
+h2,h3{
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+
+p{
+	color: #fff;
+	text-align: center;
+}
+.table{
+	
+	width: 710px;
+	height: 480px;
+	background: white;
+}
+.table1{	
+	width: 715px;
+	height: 80px;
+	background: green;
+}
